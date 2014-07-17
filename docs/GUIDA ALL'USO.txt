@@ -1,0 +1,16 @@
+Connect4 - Manuale per l'utilizzo
+--------------------------------------------------------------
+Progetto di Sistemi ad Intelligenza Distribuita
+Prof. S.Rossi
+Autori: Davino Marcell (N97/22) e De Martino Pasquale (N97/31)
+--------------------------------------------------------------
+
+Il progetto è rilascato contemporaneamente in 4 forme:
+	1) Sorgenti: presenti della subdirectory ./src
+	2) ByteCode: presenti nella subdirectory ./build
+	3) Archivio JAR eseguibile: ./dist/Connect4.jar
+	4) File di progetto per IDE Netbeans
+
+Al progetto è allegata la docuntazione in formato PDF (file Connect4_Documentazione.pdf)
+
+Per eseguire Connect4 velocemente in ambiente Windows fare doppio click su ./dist/Connect4.jar
